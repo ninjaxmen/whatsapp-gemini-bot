@@ -1,0 +1,13 @@
+2025/04/09-01:48:30.385 1648 Reusing MANIFEST C:\Users\srira\whatsapp-gemini-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/09-01:48:30.385 1648 Recovering log #79
+2025/04/09-01:48:30.417 1648 Reusing old log C:\Users\srira\whatsapp-gemini-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000079.log 
+2025/04/09-01:48:31.953 2308 Level-0 table #84: started
+2025/04/09-01:48:31.962 2308 Level-0 table #84: 439786 bytes OK
+2025/04/09-01:48:31.964 2308 Delete type=0 #79
+2025/04/09-01:48:31.966 2308 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/09-01:48:33.488 293c Compacting 1@1 + 1@2 files
+2025/04/09-01:48:33.552 293c Generated table #85@1: 36190 keys, 1567009 bytes
+2025/04/09-01:48:33.552 293c Compacted 1@1 + 1@2 files => 1567009 bytes
+2025/04/09-01:48:33.553 293c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/09-01:48:33.553 293c Delete type=2 #81
+2025/04/09-01:48:33.553 293c Delete type=2 #84
